@@ -2,5 +2,6 @@ next one go1.txt
 line number two haha
 lost fix
 add new branch 'some_branch'
+eeeeeeeeeeeeeeeeeeeeeeeee!
 he hey!!!!
 some new line!!!!!!!

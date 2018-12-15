@@ -1,1 +1,2 @@
 file go.txt
+submodule rules
